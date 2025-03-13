@@ -1,2 +1,1 @@
-# cwedh-page
-Example web page
+# Example web page
